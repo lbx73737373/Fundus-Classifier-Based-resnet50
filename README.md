@@ -1,7 +1,5 @@
 # Fundus Disease Classifier
 
-[TOC]
-
  A resnet50 fundus disease classfier. Implemented by Flask. 
 
 **NOT BE DONE NICELY. JUST FOR FUN.**
@@ -22,4 +20,4 @@ detail can be found in **readme.md under pytorch_flask folder**
 
 ## demo
 
-![image-20220516000655847](https://lbx-figure-bed.oss-cn-beijing.aliyuncs.com/202205160006890.png)
+![image-20220516005818834](https://lbx-figure-bed.oss-cn-beijing.aliyuncs.com/202205160058875.png)
